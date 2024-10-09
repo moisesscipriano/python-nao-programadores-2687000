@@ -1,1 +1,1 @@
-Print ('Hellor World')
+Print ('Hello World')
